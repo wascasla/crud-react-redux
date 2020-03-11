@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, useHistory } from 'react-router-dom'; //useHistory es un hook de react
+import { useHistory } from 'react-router-dom'; //useHistory es un hook de react
 import Swal from 'sweetalert2';
 
 // Redux
